@@ -11,6 +11,9 @@ Peek(): View the top element without removing it. <br>
 isEmpty(): operation checks whether the stack is empty. <br>
 isFull(): operation checks wheather the stack is full. <br>
 
+Problems: <br>
+1. Reverse String <br>
+
 3. Queue: Implementation using Array and Linked List
 Definition: A queue is a linear data structure that follows the First In, First Out (FIFO) principle. The first element added to the queue is the first one to be removed.
 
