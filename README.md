@@ -4,11 +4,11 @@ Following are the content of my Projects:
 Definition: A stack is a linear data structure that follows the Last In, First Out (LIFO) principle. The last element added to the stack is the first one to be removed.
 
 Operations:
-Push(): Add an element to the top of the stack.
-Pop(): Remove the top element from the stack.
-Peek(): View the top element without removing it.
-isEmpty(): operation checks whether the stack is empty.
-isFull(): operation checks wheather the stack is full.
+Push(): Add an element to the top of the stack. <br>
+Pop(): Remove the top element from the stack. <br>
+Peek(): View the top element without removing it. <br>
+isEmpty(): operation checks whether the stack is empty. <br>
+isFull(): operation checks wheather the stack is full. <br>
 
 3. Queue: Implementation using Array and Linked List
 Definition: A queue is a linear data structure that follows the First In, First Out (FIFO) principle. The first element added to the queue is the first one to be removed.
