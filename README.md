@@ -1,8 +1,7 @@
 Following are the content of my Projects:
 
-1. Stack: Implementation using Array and Linked List
-Definition: A stack is a linear data structure that follows the Last In, First Out (LIFO) principle. The last element added to the stack is the first one to be removed.
-
+1. Stack: Implementation using Array and Linked List <br>
+Definition: A stack is a linear data structure that follows the Last In, First Out (LIFO) principle. The last element added to the stack is the first one to be removed. <br>
 Operations:
 Push(): Add an element to the top of the stack. <br>
 Pop(): Remove the top element from the stack. <br>
