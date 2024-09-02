@@ -1,6 +1,7 @@
 Following are the content of my Projects:
 
-Stack: A stack is a linear data structure that follows the Last In, First Out (LIFO) principle. The last element added to the stack is the first one to be removed. <br>
+Stack: <br>
+A stack is a linear data structure that follows the Last In, First Out (LIFO) principle. The last element added to the stack is the first one to be removed. <br>
 Implementation using Array and Linked List
 
 Operations:
